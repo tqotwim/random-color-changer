@@ -1,0 +1,46 @@
+
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+#top{
+  background-color: rgb(108, 226, 255);
+  margin-top: 0;
+}
+#middle{
+  background-color: hotpink;
+}
+#whytho {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  opacity: .7;
+  justify-content: center;
+  
+}
+button {
+  height: 100px;
+  width: 150px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 25px;
+  border: none;
+  color: black;
+  font-weight: 700;
+  opacity: .8;
+  
+}
+button:hover {
+  opacity:.2;
+
+}
+#bottom{
+  background-color: rgb(144, 252, 144);
+}
+
