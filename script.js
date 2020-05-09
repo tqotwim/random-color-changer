@@ -37,26 +37,3 @@ colorChangeButton.addEventListener("click", function(){
 colorChangeButton.addEventListener("click", function(){
       alert("why tho?");
     });
-
-
-
-
-
-// let todos = 
-//   ["clean",
-//     "run",
-//     "play"]
-// function logTodos(todo, i) {
-//   console.log(todo,i);
-// }
-// todos.forEach(logTodos);
-// //how does know to log item then index 
-
-// let exOne = "is2 Thi1s T4est 3a";
-// let findNum = exOne.forEach(i){
-//     if (exOne.includes(Number) == true ){
-//       return Number;
-//     }
-//   }
-
-// exOne.sort(findNum);
